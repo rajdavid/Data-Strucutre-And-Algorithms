@@ -1,2 +1,10 @@
-# Data-Strucutre-And-Algorithms
-All basic to advance data structure and algorithms 
+# Data Strucutre And Algorithms
+ 
+ ## Recursion
+### Tower Of Hanoi
+### Flood Fill
+# Backtracking  
+### The Maze (LeetCode)
+
+
+
